@@ -1,0 +1,22 @@
+
+  {
+    "id": 3,
+    "visa_name": "Business Visa",
+    "criteria": "Valid business invitation or intent to conduct business",
+    "eligibility": "Company sponsorship, proof of business ties",
+    "consultant_name": "Sophia White",
+    "consultant_identity": "Consultant-003",
+    "consultant_number": "+1-800-345-6789",
+    "visa_img": "https://i.ibb.co.com/fGz9mbQ/Business.jpg",
+    "application_fee": "$200",
+    "processing_time": "3-5 weeks",
+    "documentation_required": [
+      "Passport",
+      "Business invitation letter",
+      "Financial proof",
+      "Company sponsorship letter"
+    ]
+  }
+
+
+
