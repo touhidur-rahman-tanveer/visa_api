@@ -1,0 +1,20 @@
+
+  {
+    "id": 1,
+    "visa_name": "Student Visa",
+    "criteria": "Enrollment in a recognized educational institution",
+    "eligibility": "Proof of admission, sufficient funds, language proficiency (if applicable)",
+    "consultant_name": "Alice Johnson",
+    "consultant_identity": "Consultant-001",
+    "consultant_number": "+1-800-123-4567",
+    "visa_img": "https://i.ibb.co.com/1QkXjkZ/student.jpg",
+    "application_fee": "$150",
+    "processing_time": "4-6 weeks",
+    "documentation_required": [
+      "Passport",
+      "Admission letter",
+      "Financial proof",
+      "Language test scores"
+    ]
+  }
+  
