@@ -1,0 +1,27 @@
+
+  {
+    "id": 4,
+    "visa_name": "Residence Visa",
+    "criteria": "Intent to live in the destination country",
+    "eligibility": "Employment contract, family reunification, or other valid reasons",
+    "consultant_name": "Emma Davis",
+    "consultant_identity": "Consultant-004",
+    "consultant_number": "+1-800-456-7890",
+    "visa_img": "https://i.ibb.co.com/DMdY8ts/residence.jpg",
+    "application_fee": "$300",
+    "processing_time": "6-12 weeks",
+    "documentation_required": [
+      "Passport",
+      "Employment contract or family proof",
+      "Financial proof",
+      "Medical certificate"
+    ]
+  }
+
+
+
+
+
+
+
+
