@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "visa_name": "Student Visa",
+    "criteria": "Enrollment in a recognized educational institution",
+    "eligibility": "Proof of admission, sufficient funds, language proficiency (if applicable)",
+    "consultant_name": "Alice Johnson",
+    "consultant_identity": "Consultant-001",
+    "consultant_number": "+1-800-123-4567",
+    "visa_img": "https://i.ibb.co.com/1QkXjkZ/student.jpg",
+    "application_fee": "$150",
+    "processing_time": "4-6 weeks",
+    "documentation_required": [
+      "Passport",
+      "Admission letter",
+      "Financial proof",
+      "Language test scores"
+    ]
+  },
+  {
+    "id": 2,
+    "visa_name": "Travel Visa",
+    "criteria": "Valid passport, intent to travel for leisure",
+    "eligibility": "Return ticket, accommodation proof, travel insurance",
+    "consultant_name": "Robert Brown",
+    "consultant_identity": "Consultant-002",
+    "consultant_number": "+1-800-234-5678",
+    "visa_img": "https://i.ibb.co.com/1TSZVLq/tourist.jpg",
+    "application_fee": "$50",
+    "processing_time": "1-3 weeks",
+    "documentation_required": [
+      "Passport",
+      "Return ticket",
+      "Hotel bookings",
+      "Travel insurance"
+    ]
+  },
+  {
+    "id": 3,
+    "visa_name": "Business Visa",
+    "criteria": "Valid business invitation or intent to conduct business",
+    "eligibility": "Company sponsorship, proof of business ties",
+    "consultant_name": "Sophia White",
+    "consultant_identity": "Consultant-003",
+    "consultant_number": "+1-800-345-6789",
+    "visa_img": "https://i.ibb.co.com/fGz9mbQ/Business.jpg",
+    "application_fee": "$200",
+    "processing_time": "3-5 weeks",
+    "documentation_required": [
+      "Passport",
+      "Business invitation letter",
+      "Financial proof",
+      "Company sponsorship letter"
+    ]
+  },
+  {
+    "id": 4,
+    "visa_name": "Residence Visa",
+    "criteria": "Intent to live in the destination country",
+    "eligibility": "Employment contract, family reunification, or other valid reasons",
+    "consultant_name": "Emma Davis",
+    "consultant_identity": "Consultant-004",
+    "consultant_number": "+1-800-456-7890",
+    "visa_img": "https://i.ibb.co.com/DMdY8ts/residence.jpg",
+    "application_fee": "$300",
+    "processing_time": "6-12 weeks",
+    "documentation_required": [
+      "Passport",
+      "Employment contract or family proof",
+      "Financial proof",
+      "Medical certificate"
+    ]
+  }
+]
